@@ -44,9 +44,9 @@ Reducing churn rate is a critical business goal for telecom companies.
 
 The project follows a structured data analysis workflow:
 
-1️⃣ Data Collection
+1️)  Data Collection
 Telecom customer dataset containing customer demographics, services, and subscription details.
-2️⃣ Data Cleaning
+2️) Data Cleaning
 Performed in Power Query:
 
 Removed duplicates
@@ -54,12 +54,12 @@ Handled missing values
 Standardized categorical fields
 Corrected data types
 
-3️⃣ Data Transformation
+3️) Data Transformation
 Created calculated columns
 Generated churn indicators
 Structured data for better analysis
 
-4️⃣ Data Modeling
+4️) Data Modeling
 Built relationships
 Created measures using DAX
 
@@ -70,7 +70,7 @@ Churn Rate
 Monthly Charges
 Customer Lifetime Value indicators
 
-5️⃣ Dashboard Development
+5️) Dashboard Development
 Designed an interactive Power BI dashboard containing:
 
 KPI cards
@@ -96,7 +96,6 @@ Analysis based on:
 * Senior Citizen
 * Partner
 * Dependents
-📌 Contract Analysis
 
 ##### Understanding churn based on:
 * Month-to-month contracts
@@ -107,35 +106,35 @@ Analysis based on:
 
 ### Key Insights 
 
-1️⃣ Customers with Month-to-Month Contracts Have Higher Churn
+1️) Customers with Month-to-Month Contracts Have Higher Churn
 
 Customers who subscribe on short-term contracts churn more frequently compared to long-term contract users.
 
-2️⃣ High Monthly Charges Increase Churn Risk
+2️) High Monthly Charges Increase Churn Risk
 
 Customers paying higher monthly charges tend to leave more frequently, possibly due to better offers from competitors.
 
-3️⃣ Customers Without Tech Support Are More Likely to Churn
+3️) Customers Without Tech Support Are More Likely to Churn
 
 Users without technical support services show higher churn rates, indicating support services improve retention.
 
-4️⃣ Fiber Optic Internet Users Have Higher Churn
+4️) Fiber Optic Internet Users Have Higher Churn
 
 Customers using fiber optic internet services churn more than DSL users, possibly due to service dissatisfaction or pricing.
 
-5️⃣ New Customers Are More Likely to Leave
+5️) New Customers Are More Likely to Leave
 
 Customers with low tenure (new customers) are more likely to churn.
 
 ### Business Recommendations to Reduce Churn
 
-1️⃣ Encourage Long-Term Contracts
+1️) Encourage Long-Term Contracts
 
-2️⃣ Improve Customer Support Services
+2️) Improve Customer Support Services
 
-3️⃣ Optimize Pricing Plans
+3️) Optimize Pricing Plans
 
-4️⃣ Focus on New Customer Retention
+4️) Focus on New Customer Retention
 
-5️⃣ Bundle Additional Services
+5️) Bundle Additional Services
 
